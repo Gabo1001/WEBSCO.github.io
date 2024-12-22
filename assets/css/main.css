@@ -4407,6 +4407,7 @@ Location:
   position: relative;
   z-index: 1;
   border-radius: 4px;
+  height: 500px; ;
 }
 .blog1-scetion-area .blog-author-boxarea:hover .img1::after {
   height: 100%;
@@ -12510,6 +12511,7 @@ Location:
 .testimonial1-section-area .testimonials-slider-area .owl-dots button.active {
   background: var(--ztc-bg-bg-1);
 }
+
 .testimonial1-section-area .testimonials-slider-area .owl-dots button.active::after {
   visibility: visible;
   opacity: 1;
