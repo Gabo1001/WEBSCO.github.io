@@ -8966,14 +8966,14 @@ Location:
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  border-radius: 100px;
+  border-radius: 0px;
 }
 .works-inner-section-area .about-all-images-area .img2 img {
   height: 100%;
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
-  border-radius: 100px;
+  border-radius: 0px;
 }
 
 /*============= WORK CSS AREA ===============*/
